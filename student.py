@@ -12,4 +12,7 @@ class Student:
          return f"Greetings! you are born in {year}"
      def initials (self):
          return f"Greetings! your initials are {self.first_name[0]} {self.second_name[0]}"
-    
+
+
+  
+
